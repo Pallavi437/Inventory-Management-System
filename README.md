@@ -1,5 +1,5 @@
 # Inventory-Management-System
-This repository is having all the codes with json files for making an inventory management  system during ETG internship program.
+This repository is having all the python codes with json files for making an inventory management system during ETG internship program.
 ### I have made an inventory management system which is working on NoSql based database
 - I have used JSON file system for it.
 - New inventory can be added

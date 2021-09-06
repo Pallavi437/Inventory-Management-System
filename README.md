@@ -13,7 +13,7 @@ I have added 6 features per product
 - Manufacture date
 - Expiry date
 
-Project can do the follwing things
+This project can do the follwing things
 - Add items to Inventory
 - Purchase products
 - Generate Bills
